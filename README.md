@@ -95,7 +95,7 @@ print("R2 Score:", r2_score(y_test, y_pred))
 
 ## 👨‍💻 Author
 
-- **Name:** [Sk Mahiduzzaman]
+- **Name:** Sk Mahiduzzaman
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman)
 - **Mail Id:** [Mail Id](mailto:mohiduz03@gmail.com)
 
@@ -108,3 +108,4 @@ This project is for educational and demonstration purposes. Feel free to use and
 ---
 
 > *Impress visitors by showcasing your data science and machine learning skills with this beautiful, well-documented project!*
+
